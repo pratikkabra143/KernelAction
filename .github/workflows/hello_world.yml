@@ -20,7 +20,7 @@ jobs:
           to-who: '${{ secrets.TELEGRAM_API_TO_WHO }}'
           message: |
             MoonWake at 27:00
-            *MoonWake at 27:00*
+            _MoonWake at 27:00_
             **MoonWake at 27:00**
             [MoonWake at 27:00](https://example.com/)
           files: |
