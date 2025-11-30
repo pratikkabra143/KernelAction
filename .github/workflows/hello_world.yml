@@ -1,0 +1,28 @@
+name: "MoonWake at 27:00"
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  discussions: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Checkout"
+        uses: actions/checkout@v3
+
+      - name: Telegram File Uploader
+        uses: xz-dev/TelegramFileUploader@v1.1.1
+        with:
+          to-who: '${{ secrets.TELEGRAM_API_TO_WHO }}'
+          message: "MoonWake at 27:00"
+          files: |
+            LICENSE
+            README.md
+        env:
+          API_ID: ${{ secrets.TELEGRAM_API_ID }}
+          API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+          BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
