@@ -33,9 +33,7 @@ jobs:
             - You're RESPONSIBLE for EVERY DAMAGE, if you flash this ${{ github.event.inputs.config_type }} build.
             - [Step to flash MoonWake in AOSP](https://github.com/RainyXeon/moonwake_kernel_xiaomi_ruby/wiki/Flash-MoonWake-on-AOSP)
             - [Step to flash MoonWake in HyperOS/MIUI](https://github.com/RainyXeon/moonwake_kernel_xiaomi_ruby/wiki/Flash-MoonWake-on-MIUI-HyperOS)
-          files: |
-            LICENSE
-            README.md
+          files: "LICENSE README.md "
         env:
           API_ID: ${{ secrets.TELEGRAM_API_ID }}
           API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
