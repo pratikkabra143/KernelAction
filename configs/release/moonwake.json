@@ -10,7 +10,6 @@
       "branch": "moon"
     },
     "output_image": "Image.gz-dtb",
-    "telegram_message": "",
     "additional_script_link": "disabled",
     "additional_post_script_link": "disabled",
     "kp": {
@@ -77,7 +76,6 @@
       "branch": "moon"
     },
     "output_image": "Image.gz-dtb",
-    "telegram_message": "",
     "additional_script_link": "disabled",
     "additional_post_script_link": "disabled",
     "kp": {
@@ -144,7 +142,6 @@
       "branch": "moon"
     },
     "output_image": "Image.gz-dtb",
-    "telegram_message": "",
     "additional_script_link": "disabled",
     "additional_post_script_link": "disabled",
     "kp": {

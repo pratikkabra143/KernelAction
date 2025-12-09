@@ -10,7 +10,6 @@
       "branch": "MoonX-KSUN"
     },
     "output_image": "Image.gz-dtb",
-    "telegram_message": "",
     "additional_script_link": "https://github.com/DeepinRain/MoonWake-CI/raw/main/scripts/moonx.sh",
     "additional_post_script_link": "disabled",
     "kp": {
@@ -77,7 +76,6 @@
       "branch": "MoonX-KSUN"
     },
     "output_image": "Image.gz-dtb",
-    "telegram_message": "",
     "additional_script_link": "https://github.com/DeepinRain/MoonWake-CI/raw/main/scripts/moonx.sh",
     "additional_post_script_link": "disabled",
     "kp": {

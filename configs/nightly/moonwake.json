@@ -10,7 +10,6 @@
       "branch": "experimental"
     },
     "output_image": "Image.gz-dtb",
-    "telegram_message": "",
     "additional_script_link": "https://github.com/DeepinRain/MoonWake-CI/raw/main/scripts/exp-version.sh",
     "additional_post_script_link": "disabled",
     "kp": {
@@ -77,7 +76,6 @@
       "branch": "temp-exp"
     },
     "output_image": "Image.gz-dtb",
-    "telegram_message": "",
     "additional_script_link": "https://github.com/DeepinRain/MoonWake-CI/raw/main/scripts/exp-version.sh",
     "kp": {
       "use": false,
@@ -143,7 +141,6 @@
       "branch": "temp-exp"
     },
     "output_image": "Image.gz-dtb",
-    "telegram_message": "",
     "additional_script_link": "https://github.com/DeepinRain/MoonWake-CI/raw/main/scripts/exp-version.sh",
     "kp": {
       "use": true,

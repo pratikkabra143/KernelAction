@@ -127,7 +127,6 @@ jobs:
 
       builddate: "${{ needs.Set-repos.outputs.builddate }}"
       output_image: ${{ matrix.repos.output_image  }}
-      telegram_message: ${{ matrix.repos.telegram_message }}
 
       KERNEL_NAME: ${{ matrix.repos.kernelSource.name }}
       KERNEL_REPO: ${{ matrix.repos.kernelSource.repo }}
