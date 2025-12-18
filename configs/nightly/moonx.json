@@ -18,7 +18,7 @@
     },
     "kernelsu": {
       "enable": true,
-      "setupLink": "https://github.com/DR-KernelArchive/KernelSU-Unified/raw/susfs/kernel/setup.sh",
+      "setupLink": "https://github.com/DeepinRain/SukiSU-Ultra/raw/susfs/kernel/setup.sh",
       "setupArg": "susfs",
       "setupName": "KernelSU",
       "needPatch": false,
