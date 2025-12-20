@@ -10,7 +10,7 @@
       "branch": "main"
     },
     "output_image": "Image.gz",
-    "additional_script_link": "https://github.com/DeepinRain/MoonWake-CI/raw/main/scripts/hypermoon-exp-version.sh",
+    "additional_script_link": "https://github.com/DPR-MoonWake/KernelAction/raw/main/scripts/hypermoon-exp-version.sh",
     "additional_post_script_link": "disabled",
     "kp": {
       "use": false,
@@ -76,7 +76,7 @@
       "branch": "main"
     },
     "output_image": "Image.gz",
-    "additional_script_link": "https://github.com/DeepinRain/MoonWake-CI/raw/main/scripts/hypermoon-exp-version.sh",
+    "additional_script_link": "https://github.com/DPR-MoonWake/KernelAction/raw/main/scripts/hypermoon-exp-version.sh",
     "additional_post_script_link": "disabled",
     "kp": {
       "use": false,
@@ -142,7 +142,7 @@
       "branch": "main"
     },
     "output_image": "Image.gz",
-    "additional_script_link": "https://github.com/DeepinRain/MoonWake-CI/raw/main/scripts/hypermoon-exp-version.sh",
+    "additional_script_link": "https://github.com/DPR-MoonWake/KernelAction/raw/main/scripts/hypermoon-exp-version.sh",
     "additional_post_script_link": "disabled",
     "kp": {
       "use": false,

@@ -10,7 +10,7 @@
       "branch": "MoonX"
     },
     "output_image": "Image.gz-dtb",
-    "additional_script_link": "https://github.com/DeepinRain/MoonWake-CI/raw/main/scripts/moonx.sh",
+    "additional_script_link": "https://github.com/DPR-MoonWake/KernelAction/raw/main/scripts/moonx.sh",
     "additional_post_script_link": "disabled",
     "kp": {
       "use": false,
