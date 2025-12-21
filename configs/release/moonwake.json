@@ -84,7 +84,7 @@
     },
     "kernelsu": {
       "enable": true,
-      "setupLink": "https://github.com/DPR-MoonWake/KernelSU-Unified/raw/susfs/kernel/setup.sh",
+      "setupLink": "https://raw.githubusercontent.com/DPR-MoonWake/KernelSU-Unified/refs/heads/susfs/kernel/setup.sh",
       "setupArg": "susfs",
       "setupName": "KernelSU",
       "needPatch": false,
