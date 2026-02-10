@@ -61,7 +61,7 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/pratikkabra143/AnyKernel3",
+      "repo": "https://github.com/pratikkabra143/AnyKernel3Ruby",
       "branch": "hyper"
     }
   },
@@ -127,7 +127,7 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/pratikkabra143/AnyKernel3",
+      "repo": "https://github.com/pratikkabra143/AnyKernel3Ruby",
       "branch": "hyper"
     }
   }
