@@ -6,11 +6,11 @@
       "name": "HyperMoon-Vanilla",
       "defconfig": "ruby_defconfig",
       "extraConfig": "",
-      "repo": "https://github.com/DPR-MoonWake/hypermoon_kernel_xiaomi_ruby",
+      "repo": "https://github.com/pratikkabra143/hypermoon_kernel_xiaomi_ruby",
       "branch": "main"
     },
     "output_image": "Image.gz",
-    "additional_script_link": "https://github.com/DPR-MoonWake/KernelAction/raw/main/scripts/hypermoon-exp-version.sh",
+    "additional_script_link": "https://github.com/pratikkabra143/KernelAction/raw/main/scripts/hypermoon-exp-version.sh",
     "additional_post_script_link": "disabled",
     "kp": {
       "use": false,
@@ -39,8 +39,8 @@
       "KCFLAGS": "",
       "build_out": "Image.gz",
       "externalCommand": {
-        "KBUILD_BUILD_HOST": "perfc.org",
-        "KBUILD_BUILD_USER": "rainyxeon",
+        "KBUILD_BUILD_HOST": "pratik",
+        "KBUILD_BUILD_USER": "insane",
         "CROSS_COMPILE": "clang-AOSP/bin/aarch64-linux-gnu-",
         "CROSS_COMPILE_ARM32": "clang-AOSP/bin/arm-linux-gnueabi-",
         "LD": "clang-AOSP/bin/ld.lld",
@@ -61,7 +61,7 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/DPR-MoonWake/AnyKernel3",
+      "repo": "https://github.com/pratikkabra143/AnyKernel3Ruby",
       "branch": "hyper_dev"
     }
   },
@@ -72,11 +72,11 @@
       "name": "HyperMoon-KSU",
       "defconfig": "ruby_defconfig",
       "extraConfig": "vendor/kernelsu.config vendor/susfs.config",
-      "repo": "https://github.com/DPR-MoonWake/hypermoon_kernel_xiaomi_ruby",
+      "repo": "https://github.com/pratikkabra143/hypermoon_kernel_xiaomi_ruby",
       "branch": "main"
     },
     "output_image": "Image.gz",
-    "additional_script_link": "https://github.com/DPR-MoonWake/KernelAction/raw/main/scripts/hypermoon-exp-version.sh",
+    "additional_script_link": "https://github.com/pratikkabra143/KernelAction/raw/main/scripts/hypermoon-exp-version.sh",
     "additional_post_script_link": "disabled",
     "kp": {
       "use": false,
@@ -84,7 +84,7 @@
     },
     "kernelsu": {
       "enable": true,
-      "setupLink": "https://raw.githubusercontent.com/DPR-MoonWake/KernelSU-Unified/refs/heads/susfs/kernel/setup.sh",
+      "setupLink": "https://raw.githubusercontent.com/pratikkabra143/KernelSU-Unified/refs/heads/susfs/kernel/setup.sh",
       "setupArg": "susfs",
       "setupName": "KernelSU",
       "needPatch": false,
@@ -127,7 +127,7 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/DPR-MoonWake/AnyKernel3",
+      "repo": "https://github.com/pratikkabra143/AnyKernel3",
       "branch": "hyper_dev"
     }
   }
