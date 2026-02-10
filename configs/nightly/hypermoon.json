@@ -105,8 +105,8 @@
       "KCFLAGS": "",
       "build_out": "Image.gz",
       "externalCommand": {
-        "KBUILD_BUILD_HOST": "perfc.org",
-        "KBUILD_BUILD_USER": "rainyxeon",
+        "KBUILD_BUILD_HOST": "pratik",
+        "KBUILD_BUILD_USER": "insane",
         "CROSS_COMPILE": "clang-AOSP/bin/aarch64-linux-gnu-",
         "CROSS_COMPILE_ARM32": "clang-AOSP/bin/arm-linux-gnueabi-",
         "LD": "clang-AOSP/bin/ld.lld",
